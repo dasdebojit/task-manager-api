@@ -1,0 +1,51 @@
+body {
+  background-color: #ccccc7;
+}
+
+.main-content {
+  background: url('/img/bg-4.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  margin-bottom: 5px;
+  background-color: #1f77a3;
+  color: whitesmoke;
+  border-radius: 0;
+  padding-bottom: 20px;
+  z-index: 5;
+  box-shadow: 3px 3px 3px grey;
+}
+
+#landing-img {
+  width: 100%;
+}
+
+
+.landing-heading2 {
+  color: rgb(18, 86, 126);
+}
+
+.landing-desc {
+  font-size: 1.2em;
+  color: rgb(73, 71, 71);
+}
+
+.landing-btn {
+  width: 40%;
+  border-radius: 20px;
+}
+
+.container-fluid {
+  align-items: center;
+  font-family: Roboto;
+  padding: 40px;
+}
+
+.bg-dark {
+  color: whitesmoke;
+}
+
+.navbar {
+  background-color: #1f77a3;
+}
